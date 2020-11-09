@@ -1,0 +1,20 @@
+{
+  "locations": [
+                {
+                    "name": "Nile River",
+                    "type": "Water",
+                    "description": "Nile River is 'the father of all rivers', being the longest river on earth. Extends for 4,132 miles and drains an area of 1,293,000 square miles. The Nile River Basin which covers 1/10 of the continent contributed to the rise of Ancient Egypt. Every year around July, the Nile floods the land as a result of melting ice in the mountains, leaving behind a rich deposit called silt. This helps farmers grow crops better and therefore support families. The river also provided easy transportation and communication between villages, therefore helping build one of the largest civilizations.",
+                    "fun": " ",
+                    "latitude": 23.2993122,
+                    "longitude": 23.1313228
+                },
+                {
+                    "name": "Yellow River",
+                    "type": "Water",
+                    "description": "The Yellow River is China’s second-longest river, stretching 5,464 km, only behind the Yangtze River. Along with the Yangtze River, it creates the only suitable farmland in China, the North China plain. Yellow River deposits large amounts of brown and sand-like fertile soil called Loess, which is carried from the deserts. However, the Yellow River also had devastating floods that could single-handedly wipe out villages. According to the legend, the first dynasty, the Xia dynasty, emerged around this time. Its leader, a mathematician and engineer called Yu, constructed irrigation systems that controlled the Yellow River and its tributaries that helped settlements grow. The legend of Yu reflects the level of technology of a society making the transition to civilization.",
+                    "fun": " ",
+                    "latitude": 36.2916476,
+                    "longitude": 113.5162455
+                }
+            ]
+ }
