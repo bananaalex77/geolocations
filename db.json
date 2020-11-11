@@ -13,9 +13,9 @@
                 {
                     "name": "Yellow River",
                     "type": "Water",
-                    "description": "The Yellow River is China’s second-longest river, stretching 5,464 km, only behind the Yangtze River. Along with the Yangtze River, it creates the only suitable farmland in China, the North China plain. Yellow River deposits large amounts of brown and sand-like fertile soil called Loess, which is carried from the deserts. However, the Yellow River also had devastating floods that could single-handedly wipe out villages. According to the legend, the first dynasty, the Xia dynasty, emerged around this time. Its leader, a mathematician and engineer called Yu, constructed irrigation systems that controlled the Yellow River and its tributaries that helped settlements grow. The legend of Yu reflects the level of technology of a society making the transition to civilization.",
+                    "description": "",
                     "color": "Orange",
-                    "fun": " ",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-yellow.png",
                     "number": 0, 
                     "latitude": 36.2916476,
                     "longitude": 113.5162455
@@ -23,9 +23,9 @@
                 {
                     "name": "Tigris and Euphrates",
                     "type": "Water",
-                    "description": "Because of the melting snow from the surrounding mountains, seasonal floods occur, which help support an agricultural lifestyle by irrigating. The civilization of Sumer was the first to emerge. They were one of the first to develop a writing system, primarily thanks to cuneiform, a wedge-shaped script where words were carved onto. It was made of reed and clay, both of which were available because of the rivers. Their location also contributed to the diversity of cultures. Since they were located in between the Indus Valley civilization and Egyptian civilization, people often met in Mesopotamia and therefore helped spread their culture and achieve cultural diffusion.",
+                    "description": "",
                     "color": "Orange",
-                    "fun": " ",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-tigris.png",
                     "number": 0, 
                     "latitude": 31.0050103,
                     "longitude": 47.439564
@@ -33,9 +33,9 @@
                 {
                     "name": "Mesopotamia",
                     "type": "Religion",
-                    "description": "Mesopotamia is a great example. There are clear differences between the hilly Northern Mesopotamia and the flat Southern Mesopotamia. In the North, the storm gods were highly looked upon because the area was characterized by agriculture reliant on rainfall and dry farming, and they controlled the amount of rain. The storm god was less important in the South, where farmers relied on irrigation, something the storm god couldn’t control.",
+                    "description": "",
                     "color": "Red",
-                    "fun": " ",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-mesopotamia.png",
                     "number": 0, 
                     "latitude": 33.0045323,
                     "longitude": 40.4045876
@@ -43,9 +43,9 @@
                 {
                     "name": "Sweden",
                     "type": "Religion",
-                    "description": "In old Norse mythology, the harsh winters of the North also affect the myths. An event is called Fimbulwinter when there are three consecutive winters with no intervening summers, something influenced by the constant winters in the North. This might have been influenced by similar events between 535-536 AD.",
+                    "description": "",
                     "color": "Red",
-                    "fun": " ",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-sweden.png",
                     "number": 0, 
                     "latitude": 59.323824,
                     "longitude": 17.84274
@@ -53,9 +53,9 @@
                 {
                     "name": "India",
                     "type": "Religion",
-                    "description": "The Ganges helps shape Hinduism because of how long the river is. Hindus believe that this river was created by puncturing the land with the nail of his big toe of Lord Vishnu. The water that flows is Vishnu’s sweat. Hindus commonly bathe in this water to help cleanse their sins. The Hindus call the Himalayan Mountains Devatma, which means “God-Souled”. This is because the high altitude of the Himalayas reminds Hindus of the complexity of the human soul. These mountains also provide water through rivers and help protect India as a natural barrier. Mathura, the city where Lord Krishina was born, is there probably because of the Yamuna river, since the river offers many benefits.",
+                    "description": "",
                     "color": "Red",
-                    "fun": " ",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-india.png",
                     "number": 0, 
                     "latitude": 18.1169925,
                     "longitude": 84.6781624
@@ -63,9 +63,9 @@
                 {
                     "name": "USA",
                     "type": "Tourism",
-                    "description": "In 2018, visitors have spent and contributed 40.1 billion dollars to the economy and they have supported 329,000 jobs. Economic benefits have risen by 2 billion compared to 2017. Lodging expenses, food expenses, and grocery expenses make up most of these earnings. This shows just how much money is brought in every year from tourism alone.",
+                    "description": "",
                     "color": "Blue",
-                    "fun": " ",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-usat.png",
                     "number": 0, 
                     "latitude": 38.1153419,
                     "longitude": -113.3194688
@@ -73,9 +73,9 @@
                 {
                     "name": "Maldives",
                     "type": "Tourism",
-                    "description": "Whenever someone goes on vacation, the Maldives is always in the discussion. Why is this? The Maldives are made up of 1200 coral islands that stretch 130 km. It’s primary tourist attractions are its beaches and waters, both of which are part of geography. It also has local culture and food shaped by its isolation. This is what drives the Maldives’ tourism. The Maldives is almost entirely reliant on its tourism, as their fishing and other industries are not as reliable. This shows just how important tourism is to countries, to the point of supporting the entire economy.",
+                    "description": "",
                     "color": "Blue",
-                    "fun": " ",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-maldives.png",
                     "number": 0, 
                     "latitude": 0.3406815,
                     "longitude": 72.333003
@@ -83,9 +83,9 @@
                 {
                     "name": "Appalachian",
                     "type": "Mountain",
-                    "description": "Mountains are not best equipped for agriculture. They usually lack fertile land, lack irrigation, and lack of transportation. These factors may result in low income for families, which will tempt them to move into the city, where higher income is guaranteed. Mountains have vulnerable ecosystems, especially since what happens at higher elevations can really add up in lower elevations, where the agricultural communities lie. However, since these communities have been established to a certain lifestyle for decades or centuries, it may be hard to adapt in time if something drastic happens, therefore resulting in people migrating away. Mountains are exposed to multiple natural hazards, such as landslides, floods, and droughts. These significantly decrease the safety of the area, thus people migrate away.",
+                    "description": "",
                     "color": "Green",
-                    "fun": " ",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-appalachian.png",
                     "number": 0, 
                     "latitude": 37.3347474,
                     "longitude": -82.7386455
