@@ -21,7 +21,7 @@
                     "longitude": 113.5162455
                 }, 
                 {
-                    "name": "Tigris and Euphrates",
+                    "name": "Tigris and Euphrates Rivers",
                     "type": "Water",
                     "description": "",
                     "color": "Orange",
@@ -29,6 +29,16 @@
                     "number": 0, 
                     "latitude": 31.0050103,
                     "longitude": 47.439564
+                },
+                {
+                    "name": "Indus and Ganges Rivers",
+                    "type": "Water",
+                    "description": "",
+                    "color": "Orange",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-ganges.png",
+                    "number": 0, 
+                    "latitude": 28.6106908,
+                    "longitude": 71.8495055
                 },
                 {
                     "name": "Mesopotamia",
@@ -79,6 +89,26 @@
                     "number": 0, 
                     "latitude": 0.3406815,
                     "longitude": 72.333003
+                },
+                {
+                    "name": "Australia",
+                    "type": "Tourism",
+                    "description": "",
+                    "color": "Blue",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-australia.png",
+                    "number": 0, 
+                    "latitude": -28.2796422,
+                    "longitude": 125.7673911
+                },
+                {
+                    "name": "Spain",
+                    "type": "Tourism",
+                    "description": "",
+                    "color": "Blue",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-esp.png",
+                    "number": 0, 
+                    "latitude": 39.3316356,
+                    "longitude": -5.2364085
                 },
                 {
                     "name": "Appalachian",
