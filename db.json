@@ -119,6 +119,16 @@
                     "number": 0, 
                     "latitude": 37.3347474,
                     "longitude": -82.7386455
+                },
+                {
+                    "name": "Mountain Migration",
+                    "type": "Mountain",
+                    "description": "",
+                    "color": "Green",
+                    "fun": "https://bananaalex77.github.io/geolocations/image-mm.png",
+                    "number": 0, 
+                    "latitude": -10.5764135,
+                    "longitude": -74.9337752
                 }
             ]
  }
